@@ -1,0 +1,62 @@
+body{
+    font-family: sans-serif;}
+    
+h1{
+    font-family: cursive;
+    text-shadow: 10px 8px 20px rgb(47, 0, 255)
+    , 9px 23px 23px rgb(255, 255, 255);
+    margin-top: 2px;
+    text-align: center;
+    font-size: 60px;}
+
+div{
+    width: 600px;
+}
+
+#none{
+    text-align: center;    
+}
+
+#fir{
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-style: solid;
+    border-color: rgb(156, 154, 154);
+    margin-top: -20px;
+}
+
+#sec{
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-style: solid;
+    border-color: rgb(156, 154, 154);
+    margin-top: -20px;
+}
+
+a{
+    text-decoration: none;
+    border-style: solid;
+    border-color: whitesmoke;}
+
+blockquote a:hover {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+a input:hover{
+    font-size: 20px;
+    background-color: blue;
+    color: aqua;
+}
+.sign{
+    padding-left: 650px;
+}
+
+#no{
+    margin-left: -50px;
+}
+#yes{
+    margin-left: 600px;
+}

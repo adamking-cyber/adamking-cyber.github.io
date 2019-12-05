@@ -1,0 +1,140 @@
+body{
+    background: rgb(185, 123, 6);
+    font-family: cursive;
+}
+a{
+    padding-top: 20px;
+    margin-left: -10px;
+    letter-spacing: -1px;
+    color: whitesmoke;
+}
+div{
+    background:url(jellyfish.jpg);
+    height: 100px;
+}
+#hi{
+    text-align: center;
+}
+h1{
+    float: left;
+}
+
+h2{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 20px;
+    font-family: cursive;
+    letter-spacing: -5px;
+    text-shadow: 10px 8px 20px rgb(47, 0, 255)
+    , 9px 23px 23px rgb(255, 255, 255);
+
+}
+.meta{
+    margin-left: 40px;
+    margin-top:20px; 
+    background: rgb(0, 225, 255);
+    color: white;
+    float: left;
+    height: 180px;
+}
+.meta p:hover{
+    text-decoration:underline;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.index{
+    margin-left: 40px;
+    margin-top:140px; 
+    background: blue;
+    color: white;
+    float: left;
+    height: 180px;
+}
+.index p:hover{
+    text-decoration:underline;
+    font-size: 20px;
+    color: rgb(0, 255, 85);
+}
+
+.site{
+    margin-top: 140px;
+    background-color: rgb(0, 225, 255); 
+    height: 180px;
+    color: white;
+    float: right;
+}
+.site p:hover{
+    text-decoration:underline;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+ul a:hover{
+    font-size: 20px;
+    color: rgb(0, 217, 255); 
+}
+.all{
+    float:right;
+    padding-top: 3px;
+    padding-right: 30px;
+    height: -10px;
+}
+#in{
+    width: 200px;
+}
+
+li{ 
+    padding-top: 70px;
+    padding-right: 15px;
+    margin-right: 20px;
+    float: right;
+    display: inline;
+}
+
+
+h2{
+    text-align: center;
+    background-size: 10px 10px;
+    padding-top: 0px;
+
+}
+a{
+    text-decoration: none;
+}
+
+.cool{
+    float: left;
+    width: 370px;
+    margin-top: 15px; 
+    height: 507px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(129, 124, 124);
+}
+
+.look{
+    margin-top: 20px;
+    background-color: blue; 
+    height: 180px;
+    color: white;
+    float: right;   
+}
+.look p:hover{
+    text-decoration: underline;
+    font-size: 20px;
+    color:rgb(0, 250, 112);
+}
+p{
+    text-decoration-color: rgb(255, 255, 255);
+}
+
+h3{
+    text-align: center;
+}
+
+.copy{
+    margin-top: 620px;
+    background-color: blue; 
+    height: 40px;
+    color: white;   
+}

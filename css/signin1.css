@@ -1,0 +1,64 @@
+body{
+    background-color: azure;
+}
+
+hr{
+    width: 300px;
+}
+div{
+    width: 50em;
+    margin-left: 300px;
+    margin-top: 130px;
+    background-color:white;
+}
+h1{
+    color: rgb(8, 8, 8);
+    font-size: 50px;
+    text-shadow: 5px 10px 15px blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#username{
+    border: white;
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+#username:hover{
+    font-size: 20px;
+}
+
+#password{
+    border: white;
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+#password:hover{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#signin{
+    margin-left: 148px;
+    text-align: center;
+    width: 510px;
+}
+a #signin:hover{
+    font-size: 20px;
+    color: aqua;
+    background-color: blue;
+}
+
+p{
+    text-align: center;
+}
+p:hover{
+    font-size: 20px;
+}

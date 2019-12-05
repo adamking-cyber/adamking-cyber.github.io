@@ -1,0 +1,110 @@
+body{
+    background-color: azure;
+}
+div{
+    width: 50em;
+    margin-left: 300px;
+    margin-top: -15px;
+    background-color:white;
+}
+hr{
+    width: 300px;
+}
+    h1{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-shadow: 5px 10px 15px blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#firname{
+    border: white;
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+#firname:hover{
+    font-size: 20px;
+}
+
+#secname{
+    border: white;
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+#secname:hover{
+    font-size: 20px;
+}
+
+#username{
+    border: white;
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+#username:hover{
+    font-size: 20px;
+}
+
+#email{
+    border: white;
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+#email:hover{
+    font-size: 20px;
+}
+
+#password{
+    border: white;
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+#password:hover{
+    font-size: 20px;
+}
+
+#repass{
+    border: white;
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+#repass:hover{
+    font-size: 20px;
+}
+
+#agree{
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+#agree:hover{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+#register{
+    margin-left: 150px;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+}
+a #register:hover{
+    font-size: 20px;
+    background-color: blue;
+    color: aqua;
+}

@@ -1,0 +1,63 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    margin-top: -20px;
+    font-family: cursive;
+    letter-spacing: -5px;
+    text-shadow: 5px 10px 20px blue;
+}
+body{
+    font-family: sans-serif;
+    background-color: azure;
+}
+
+label{
+    color: rgb(0, 0, 0);
+}
+
+a{
+    text-decoration: none;
+}
+
+.wrap{
+    min-width: 500px;
+    width: 90%;
+    margin: auto;
+    background-color: rgb(0, 217, 255);
+    background-size: 10%;
+    overflow: hidden;
+}
+
+.content, ul{
+    height: 10px;
+}
+
+li{
+    display: inline;
+    padding-right: 1px;
+    margin-left: 60px;
+}
+
+.content {
+    background-color: azure;
+    height: 100%;
+    float: left;
+    width: 100%;
+    font-family: cursive;
+}
+
+div{
+    background-color: rgb(0, 217, 255);
+    height: 100%;
+}
+
+ul a:hover{
+    text-decoration: underline;
+    font-size: 20px;
+    color:whitesmoke;
+}
+
+aside, ul{
+    list-style: none;
+    padding-left: 0;
+}
